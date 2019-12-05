@@ -13,7 +13,4 @@ fearure
 111
 222
 
-someone
-1111111
-
-0000000
+some
